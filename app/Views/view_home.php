@@ -422,14 +422,13 @@
 														<div class="col-lg-12">
 															<div class="client-content">
 																<img src="<?= base_url(); ?>/assets/images/quote.png" alt="">
-																<p>“Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eismod tempor idunte ut labore et dolore magna aliqua darwin kengan
-																	lorem ipsum dolor sit amet, consectetur picing elit massive big blasta.”</p>
+																<p>“Kami berusaha semaksimal mungkin untuk memberikan layanan yang terbaik untuk Client, karena bagi kami kepuasan Client adalah bagian dari kebahagiaan kami.”</p>
 															</div>
 															<div class="down-content">
-																<img src="<?= base_url(); ?>/assets/images/client-image.jpg" alt="">
+																<img src="<?= base_url(); ?>/assets/images/ceo-image.jpg" alt="">
 																<div class="right-content">
-																	<h4>David Martino</h4>
-																	<span>CEO of David Company</span>
+																	<h4>Adil Saputra Duha</h4>
+																	<span>CEO of Organikita Company</span>
 																</div>
 															</div>
 														</div>
