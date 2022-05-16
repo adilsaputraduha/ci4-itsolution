@@ -11,7 +11,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-	<title>IT Solution</title>
+	<title>IT Solution Organikita - Profesional, murah dan cepat.</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -209,41 +209,29 @@
 				<div class="col-lg-3">
 					<div class="service-item first-service">
 						<div class="icon"></div>
-						<h4>App Maintenance</h4>
-						<p>You are not allowed to redistribute this template ZIP file on any other website.</p>
-						<div class="text-button">
-							<a href="#">Read More <i class="fa fa-arrow-right"></i></a>
-						</div>
+						<h4>Murah Merona</h4>
+						<p>Gak perlu khawatir masalah harga, disini uang adalah nomor 2.</p>
 					</div>
 				</div>
 				<div class="col-lg-3">
 					<div class="service-item second-service">
 						<div class="icon"></div>
-						<h4>Rocket Speed of App</h4>
-						<p>You are allowed to use the Chain App Dev HTML template. Feel free to modify or edit this layout.</p>
-						<div class="text-button">
-							<a href="#">Read More <i class="fa fa-arrow-right"></i></a>
-						</div>
+						<h4>Cepat Bagai Roket</h4>
+						<p>Kami berkomitmen untuk menyelesaikan pekerjaan secepat roket.</p>
 					</div>
 				</div>
 				<div class="col-lg-3">
 					<div class="service-item third-service">
 						<div class="icon"></div>
-						<h4>Multi Workflow Idea</h4>
-						<p>If this template is beneficial for your work, please support us <a rel="nofollow" href="https://paypal.me/templatemo" target="_blank">a little via PayPal</a>. Thank you.</p>
-						<div class="text-button">
-							<a href="#">Read More <i class="fa fa-arrow-right"></i></a>
-						</div>
+						<h4>Profesional</h4>
+						<p>Layanan akan dikerjakan oleh pria pria sejati yang ahli dibidangnya.</p>
 					</div>
 				</div>
 				<div class="col-lg-3">
 					<div class="service-item fourth-service">
 						<div class="icon"></div>
-						<h4>24/7 Help &amp; Support</h4>
-						<p>Lorem ipsum dolor consectetur adipiscing elit sedder williamsburg photo booth quinoa and fashion axe.</p>
-						<div class="text-button">
-							<a href="#">Read More <i class="fa fa-arrow-right"></i></a>
-						</div>
+						<h4>Support 24 Jam</h4>
+						<p>Punya keluhan? konsultasi? atau revisi? apapun itu akan direspon meskipun kami sedang makan.</p>
 					</div>
 				</div>
 			</div>
@@ -647,15 +635,15 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-3">
+				<div class="col-lg-4">
 					<div class="footer-widget">
 						<h4>Contact Us</h4>
-						<p>Rio de Janeiro - RJ, 22795-008, Brazil</p>
-						<p><a href="#">010-020-0340</a></p>
-						<p><a href="#">info@company.co</a></p>
+						<p>Kota Padang - Sumatera Barat</p>
+						<p><a href="#">0821-7153-8531</a></p>
+						<p><a href="#">service@organikita.com</a></p>
 					</div>
 				</div>
-				<div class="col-lg-3">
+				<div class="col-lg-4">
 					<div class="footer-widget">
 						<h4>About Us</h4>
 						<ul>
@@ -672,7 +660,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-lg-3">
+				<!-- <div class="col-lg-4">
 					<div class="footer-widget">
 						<h4>Useful Links</h4>
 						<ul>
@@ -688,8 +676,8 @@
 							<li><a href="#">Normal Apps</a></li>
 						</ul>
 					</div>
-				</div>
-				<div class="col-lg-3">
+				</div> -->
+				<div class="col-lg-4">
 					<div class="footer-widget">
 						<h4>About Our Company</h4>
 						<div class="logo">
@@ -700,8 +688,7 @@
 				</div>
 				<div class="col-lg-12">
 					<div class="copyright-text">
-						<p>Copyright © 2022 Chain App Dev Company. All Rights Reserved.
-							<br>Design: <a href="https://templatemo.com/" target="_blank" title="css templates">TemplateMo</a>
+						<p>Copyright © 2022 IT Solution Organikita. All Rights Reserved.
 						</p>
 					</div>
 				</div>
