@@ -47,7 +47,7 @@
 					<nav class="main-nav">
 						<!-- ***** Logo Start ***** -->
 						<a href="/" class="logo">
-							<img src="<?= base_url(); ?>/assets/images/logo.png" alt="Chain App Dev">
+							<h4>IT Solution</h4>
 						</a>
 						<!-- ***** Logo End ***** -->
 						<!-- ***** Menu Start ***** -->
@@ -240,41 +240,28 @@
 			<div class="row">
 				<div class="col-lg-6 align-self-center">
 					<div class="section-heading">
-						<h4>About <em>What We Do</em> &amp; Who We Are</h4>
+						<h4>Tentang <em>Apa Yang Kami</em> Lakukan</h4>
 						<img src="<?= base_url(); ?>/assets/images/heading-line-dec.png" alt="">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eismod tempor incididunt ut labore et dolore magna.</p>
+						<p>IT Solution Organikita memberikan pelayanan sebagai berikut :</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="box-item">
-								<h4><a href="#">Maintance Problems</a></h4>
-								<p>Lorem Ipsum Text</p>
+								<h4><a href="#">Skripsi & Tugas Akhir</a></h4>
+								<p>Desktop, Web & Mobile</p>
 							</div>
 						</div>
 						<div class="col-lg-6">
 							<div class="box-item">
-								<h4><a href="#">24/7 Support &amp; Help</a></h4>
-								<p>Lorem Ipsum Text</p>
+								<h4><a href="#">Jaringan</a></h4>
+								<p>LAN & Maintenance Jaringan</p>
 							</div>
 						</div>
 						<div class="col-lg-6">
 							<div class="box-item">
-								<h4><a href="#">Fixing Issues About</a></h4>
-								<p>Lorem Ipsum Text</p>
+								<h4><a href="#">IT Support</a></h4>
+								<p>Hardware & Software</p>
 							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="box-item">
-								<h4><a href="#">Co. Development</a></h4>
-								<p>Lorem Ipsum Text</p>
-							</div>
-						</div>
-						<div class="col-lg-12">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eismod tempor idunte ut labore et dolore adipiscing magna.</p>
-							<div class="gradient-button">
-								<a href="#">Start 14-Day Free Trial</a>
-							</div>
-							<span>*No Credit Card Required</span>
 						</div>
 					</div>
 				</div>
@@ -508,7 +495,7 @@
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
-							<a href="#">Purchase This Plan Now</a>
+							<a href="#">Order / Ajukan Pertanyaan</a>
 						</div>
 					</div>
 				</div>
@@ -525,7 +512,7 @@
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
-							<a href="#">Purchase This Plan Now</a>
+							<a href="#">Order / Ajukan Pertanyaan</a>
 						</div>
 					</div>
 				</div>
@@ -542,7 +529,7 @@
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
-							<a href="#">Purchase This Plan Now</a>
+							<a href="#">Order / Ajukan Pertanyaan</a>
 						</div>
 					</div>
 				</div>
@@ -555,7 +542,7 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
 					<div class="section-heading">
-						<h4>Join our mailing list to receive the news &amp; latest trends</h4>
+						<h4>Bergabung untuk menerima berita terbaru dari kami.</h4>
 					</div>
 				</div>
 				<div class="col-lg-6 offset-lg-3">
@@ -568,7 +555,7 @@
 							</div>
 							<div class="col-lg-6 col-sm-6">
 								<fieldset>
-									<button type="submit" class="main-button">Subscribe Now <i class="fa fa-angle-right"></i></button>
+									<button type="submit" class="main-button">Berlangganan Sekarang <i class="fa fa-angle-right"></i></button>
 								</fieldset>
 							</div>
 						</div>
