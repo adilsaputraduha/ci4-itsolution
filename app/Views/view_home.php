@@ -168,14 +168,11 @@
 								<div class="row">
 									<div class="col-lg-12">
 										<h2>Selesaikan Masalah IT-mu Disini.</h2>
-										<p>Chain App Dev is an app landing page HTML5 template based on Bootstrap v5.1.3 CSS layout provided by TemplateMo, a great website to download free CSS templates.</p>
+										<p>Punya skripsi atau tugas akhir yang gak kelar-kelar? atau mau pasang jaringan? klik dibawah untuk konsultasi ya</p>
 									</div>
 									<div class="col-lg-12">
 										<div class="white-button first-button scroll-to-section">
-											<a href="#contact">Free Quote <i class="fab fa-apple"></i></a>
-										</div>
-										<div class="white-button scroll-to-section">
-											<a href="#contact">Free Quote <i class="fab fa-google-play"></i></a>
+											<a href="https://wa.me/6282171538531" target="__blank">Konsultasi Gratis <i class="fab fa-whatsapp"></i></a>
 										</div>
 									</div>
 								</div>
@@ -199,7 +196,7 @@
 					<div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
 						<h4>Layanan <em>Luar Biasa</em> Untukmu</h4>
 						<img src="<?= base_url(); ?>/assets/images/heading-line-dec.png" alt="">
-						<p>If you need the greatest collection of HTML templates for your business, please visit <a rel="nofollow" href="https://www.toocss.com/" target="_blank">TooCSS</a> Blog. If you need to have a contact form PHP script, go to <a href="https://templatemo.com/contact" target="_parent">our contact page</a> for more information.</p>
+						<p>Berangkat dari konsep "Kepuasan Client Adalah Nomor 1" maka kami berusaha semaksimal mungkin memberikan pelayanan yang bikin Client puas.</p>
 					</div>
 				</div>
 			</div>
@@ -295,9 +292,9 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
 					<div class="section-heading">
-						<h4>Lihat Kata <em>Client</em> Sebelum Kamu</h4>
+						<h4>Penilaian <em>Client</em> Tentang Kami</h4>
 						<img src="<?= base_url(); ?>/assets/images/heading-line-dec.png" alt="">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eismod tempor incididunt ut labore et dolore magna.</p>
+						<p>Berikut penilaian Client sebelum kamu terhadap pelayanan kami.</p>
 					</div>
 				</div>
 				<div class="col-lg-12">
@@ -310,11 +307,11 @@
 											<div class="thumb">
 												<div class="row">
 													<div class="col-lg-4 col-sm-4 col-12">
-														<h4>David Martino Co</h4>
-														<span class="date">30 November 2021</span>
+														<h4>Alwan Aditia</h4>
+														<span class="date">02 November 2021</span>
 													</div>
 													<div class="col-lg-4 col-sm-4 d-none d-sm-block">
-														<span class="category">Financial Apps</span>
+														<span class="category">Mahasiswa</span>
 													</div>
 													<div class="col-lg-4 col-sm-4 col-12">
 														<i class="fa fa-star"></i>
@@ -331,11 +328,11 @@
 											<div class="thumb">
 												<div class="row">
 													<div class="col-lg-4 col-sm-4 col-12">
-														<h4>Jake Harris Nyo</h4>
-														<span class="date">29 November 2021</span>
+														<h4>Zeldianto</h4>
+														<span class="date">28 Februari 2022</span>
 													</div>
 													<div class="col-lg-4 col-sm-4 d-none d-sm-block">
-														<span class="category">Digital Business</span>
+														<span class="category">Software Engineer</span>
 													</div>
 													<div class="col-lg-4 col-sm-4 col-12">
 														<i class="fa fa-star"></i>
@@ -343,7 +340,7 @@
 														<i class="fa fa-star"></i>
 														<i class="fa fa-star"></i>
 														<i class="fa fa-star"></i>
-														<span class="rating">4.5</span>
+														<span class="rating">4.7</span>
 													</div>
 												</div>
 											</div>
@@ -352,11 +349,11 @@
 											<div class="thumb">
 												<div class="row">
 													<div class="col-lg-4 col-sm-4 col-12">
-														<h4>May Catherina</h4>
-														<span class="date">27 November 2021</span>
+														<h4>Ayyub Zikri</h4>
+														<span class="date">11 Januari 2022</span>
 													</div>
 													<div class="col-lg-4 col-sm-4 d-none d-sm-block">
-														<span class="category">Business &amp; Economics</span>
+														<span class="category">Mahasiswa</span>
 													</div>
 													<div class="col-lg-4 col-sm-4 col-12">
 														<i class="fa fa-star"></i>
@@ -390,27 +387,6 @@
 												</div>
 											</div>
 										</div>
-										<div class="last-thumb">
-											<div class="thumb">
-												<div class="row">
-													<div class="col-lg-4 col-sm-4 col-12">
-														<h4>Mark Amber Do</h4>
-														<span class="date">21 November 2021</span>
-													</div>
-													<div class="col-lg-4 col-sm-4 d-none d-sm-block">
-														<span class="category">Web Development</span>
-													</div>
-													<div class="col-lg-4 col-sm-4 col-12">
-														<i class="fa fa-star"></i>
-														<i class="fa fa-star"></i>
-														<i class="fa fa-star"></i>
-														<i class="fa fa-star"></i>
-														<i class="fa fa-star"></i>
-														<span class="rating">4.3</span>
-													</div>
-												</div>
-											</div>
-										</div>
 									</div>
 								</div>
 								<div class="col-lg-5">
@@ -422,13 +398,13 @@
 														<div class="col-lg-12">
 															<div class="client-content">
 																<img src="<?= base_url(); ?>/assets/images/quote.png" alt="">
-																<p>“Kami berusaha semaksimal mungkin untuk memberikan layanan yang terbaik untuk Client, karena bagi kami kepuasan Client adalah bagian dari kebahagiaan kami.”</p>
+																<p>“Pelayanannya bagus, lemah lembut walaupun saya banyak nanya, mantap lah pokoknya”</p>
 															</div>
 															<div class="down-content">
-																<img src="<?= base_url(); ?>/assets/images/ceo-image.jpg" alt="">
+																<img src="<?= base_url(); ?>/assets/images/client-image.png" alt="">
 																<div class="right-content">
-																	<h4>Adil Saputra Duha</h4>
-																	<span>CEO of Organikita Company</span>
+																	<h4>Alwan Aditia</h4>
+																	<span>Mahasiswa</span>
 																</div>
 															</div>
 														</div>
@@ -443,14 +419,13 @@
 														<div class="col-lg-12">
 															<div class="client-content">
 																<img src="<?= base_url(); ?>/assets/images/quote.png" alt="">
-																<p>“CTO, Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eismod tempor idunte ut labore et dolore magna aliqua darwin kengan
-																	lorem ipsum dolor sit amet, consectetur picing elit massive big blasta.”</p>
+																<p>“Harga murah, project lebih cepat selesai dari perkiraan, support yang diberikan juga cepat.”</p>
 															</div>
 															<div class="down-content">
-																<img src="<?= base_url(); ?>/assets/images/client-image.jpg" alt="">
+																<img src="<?= base_url(); ?>/assets/images/client-image.png" alt="">
 																<div class="right-content">
-																	<h4>Jake H. Nyo</h4>
-																	<span>CTO of Digital Company</span>
+																	<h4>Zeldianto</h4>
+																	<span>Software Engineer</span>
 																</div>
 															</div>
 														</div>
@@ -465,14 +440,13 @@
 														<div class="col-lg-12">
 															<div class="client-content">
 																<img src="<?= base_url(); ?>/assets/images/quote.png" alt="">
-																<p>“May, Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eismod tempor idunte ut labore et dolore magna aliqua darwin kengan
-																	lorem ipsum dolor sit amet, consectetur picing elit massive big blasta.”</p>
+																<p>“Harga sangat ramah dikantong mahasiswa, cepat selesai, perbaikan dikerjakan sangat cepat.”</p>
 															</div>
 															<div class="down-content">
-																<img src="<?= base_url(); ?>/assets/images/client-image.jpg" alt="">
+																<img src="<?= base_url(); ?>/assets/images/client-image.png" alt="">
 																<div class="right-content">
-																	<h4>May C.</h4>
-																	<span>Founder of Catherina Co.</span>
+																	<h4>Ayyub Zikri</h4>
+																	<span>Mahasiswa</span>
 																</div>
 															</div>
 														</div>
@@ -487,36 +461,13 @@
 														<div class="col-lg-12">
 															<div class="client-content">
 																<img src="<?= base_url(); ?>/assets/images/quote.png" alt="">
-																<p>“Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eismod tempor idunte ut labore et dolore magna aliqua darwin kengan
-																	lorem ipsum dolor sit amet, consectetur picing elit massive big blasta.”</p>
+																<p>“Dapat info dari teman, ternyata benar disini skripsi murah dan cepat pengerjaannya.”</p>
 															</div>
 															<div class="down-content">
-																<img src="<?= base_url(); ?>/assets/images/client-image.jpg" alt="">
+																<img src="<?= base_url(); ?>/assets/images/client-image.png" alt="">
 																<div class="right-content">
-																	<h4>Random Staff</h4>
-																	<span>Manager, Digital Company</span>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</li>
-										<li>
-											<div>
-												<div class="thumb">
-													<div class="row">
-														<div class="col-lg-12">
-															<div class="client-content">
-																<img src="<?= base_url(); ?>/assets/images/quote.png" alt="">
-																<p>“Mark, Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eismod tempor idunte ut labore et dolore magna aliqua darwin kengan
-																	lorem ipsum dolor sit amet, consectetur picing elit massive big blasta.”</p>
-															</div>
-															<div class="down-content">
-																<img src="<?= base_url(); ?>/assets/images/client-image.jpg" alt="">
-																<div class="right-content">
-																	<h4>Mark Am</h4>
-																	<span>CTO, Amber Do Company</span>
+																	<h4>Random User</h4>
+																	<span>Mahasiswa</span>
 																</div>
 															</div>
 														</div>
@@ -547,7 +498,7 @@
 				<div class="col-lg-4">
 					<div class="pricing-item-regular">
 						<span class="price">$12</span>
-						<h4>Standard Plan App</h4>
+						<h4>Pemasangan Jaringan</h4>
 						<div class="icon">
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
@@ -566,8 +517,8 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="pricing-item-pro">
-						<span class="price">$25</span>
-						<h4>Business Plan App</h4>
+						<span class="price">Rp. 1.500.000</span>
+						<h4>Skripsi & Tugas Akhir</h4>
 						<div class="icon">
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
@@ -587,7 +538,7 @@
 				<div class="col-lg-4">
 					<div class="pricing-item-regular">
 						<span class="price">$66</span>
-						<h4>Premium Plan App</h4>
+						<h4>IT Support</h4>
 						<div class="icon">
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
