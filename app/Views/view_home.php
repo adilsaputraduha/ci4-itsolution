@@ -497,18 +497,15 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="pricing-item-regular">
-						<span class="price">$12</span>
 						<h4>Pemasangan Jaringan</h4>
 						<div class="icon">
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
 						<ul>
-							<li>Lorem Ipsum Dolores</li>
+							<li>Harga mulai dari Rp. 500.000</li>
 							<li>20 TB of Storage</li>
 							<li class="non-function">Life-time Support</li>
 							<li class="non-function">Premium Add-Ons</li>
-							<li class="non-function">Fastest Network</li>
-							<li class="non-function">More Options</li>
 						</ul>
 						<div class="border-button">
 							<a href="#">Purchase This Plan Now</a>
@@ -517,18 +514,15 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="pricing-item-pro">
-						<span class="price">Rp. 1.500.000</span>
 						<h4>Skripsi & Tugas Akhir</h4>
 						<div class="icon">
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
 						<ul>
-							<li>Lorem Ipsum Dolores</li>
-							<li>50 TB of Storage</li>
-							<li>Life-time Support</li>
-							<li>Premium Add-Ons</li>
-							<li class="non-function">Fastest Network</li>
-							<li class="non-function">More Options</li>
+							<li>Harga mulai dari Rp. 1.000.000</li>
+							<li>Bebas konsultasi kapanpun</li>
+							<li>Revisi dikerjakan sampai tamat</li>
+							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
 							<a href="#">Purchase This Plan Now</a>
@@ -537,18 +531,15 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="pricing-item-regular">
-						<span class="price">$66</span>
 						<h4>IT Support</h4>
 						<div class="icon">
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
 						<ul>
-							<li>Lorem Ipsum Dolores</li>
-							<li>120 TB of Storage</li>
-							<li>Life-time Support</li>
-							<li>Premium Add-Ons</li>
-							<li>Fastest Network</li>
-							<li>More Options</li>
+							<li>Install PC, Laptop, Software, Hardware, dll.</li>
+							<li>Bebas konsultasi kapanpun</li>
+							<li>Lisensi seumur hidup</li>
+							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
 							<a href="#">Purchase This Plan Now</a>
