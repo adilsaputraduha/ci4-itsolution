@@ -53,9 +53,9 @@
 						<!-- ***** Menu Start ***** -->
 						<ul class="nav">
 							<li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-							<li class="scroll-to-section"><a href="#services">Services</a></li>
-							<li class="scroll-to-section"><a href="#about">About</a></li>
-							<li class="scroll-to-section"><a href="#pricing">Pricing</a></li>
+							<li class="scroll-to-section"><a href="#services">Layanan</a></li>
+							<li class="scroll-to-section"><a href="#about">Tentang</a></li>
+							<li class="scroll-to-section"><a href="#pricing">Harga</a></li>
 							<li class="scroll-to-section"><a href="#newsletter">Newsletter</a></li>
 							<li>
 								<div class="gradient-button"><a id="modal_trigger" href="#modal"><i class="fa fa-sign-in-alt"></i> Sign In Now</a></div>
@@ -502,10 +502,10 @@
 							<img src="<?= base_url(); ?>/assets/images/pricing-table-01.png" alt="">
 						</div>
 						<ul>
-							<li>Harga mulai dari Rp. 500.000</li>
-							<li>20 TB of Storage</li>
-							<li class="non-function">Life-time Support</li>
-							<li class="non-function">Premium Add-Ons</li>
+							<li>Harga mulai dari Rp. 100.000</li>
+							<li>Bebas konsultasi kapanpun</li>
+							<li>Instalasi LAN, perbaikan & maintenance jaringan</li>
+							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
 							<a href="#">Purchase This Plan Now</a>
@@ -538,7 +538,7 @@
 						<ul>
 							<li>Install PC, Laptop, Software, Hardware, dll.</li>
 							<li>Bebas konsultasi kapanpun</li>
-							<li>Lisensi seumur hidup</li>
+							<li>Lisensi software seumur hidup</li>
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
@@ -588,16 +588,10 @@
 					<div class="footer-widget">
 						<h4>About Us</h4>
 						<ul>
-							<li><a href="#">Home</a></li>
-							<li><a href="#">Services</a></li>
-							<li><a href="#">About</a></li>
-							<li><a href="#">Testimonials</a></li>
-							<li><a href="#">Pricing</a></li>
-						</ul>
-						<ul>
-							<li><a href="#">About</a></li>
-							<li><a href="#">Testimonials</a></li>
-							<li><a href="#">Pricing</a></li>
+							<li><a href="#top">Home</a></li>
+							<li><a href="#services">Services</a></li>
+							<li><a href="#about">About</a></li>
+							<li><a href="#pricing">Pricing</a></li>
 						</ul>
 					</div>
 				</div>
@@ -622,9 +616,9 @@
 					<div class="footer-widget">
 						<h4>About Our Company</h4>
 						<div class="logo">
-							<img src="<?= base_url(); ?>/assets/images/white-logo.png" alt="">
+							<h6>IT Solution Organikita</h5>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+						<p>Merupakan perusahaan anak dari Organikita Indonesia dibidang IT.</p>
 					</div>
 				</div>
 				<div class="col-lg-12">

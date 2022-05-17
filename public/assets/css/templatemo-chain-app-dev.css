@@ -1682,9 +1682,8 @@ footer #search button:hover {
     color: #4b8ef1;
 }
 
-.footer-widget .logo img {
-    max-width: 96px;
-    margin-bottom: 30px;
+.footer-widget .logo h6 {
+    color: #fff;
 }
 
 .footer-widget h4 {
