@@ -46,7 +46,7 @@
 				<div class="col-12">
 					<nav class="main-nav">
 						<!-- ***** Logo Start ***** -->
-						<a href="index.html" class="logo">
+						<a href="/" class="logo">
 							<img src="<?= base_url(); ?>/assets/images/logo.png" alt="Chain App Dev">
 						</a>
 						<!-- ***** Logo End ***** -->
@@ -58,7 +58,7 @@
 							<li class="scroll-to-section"><a href="#pricing">Harga</a></li>
 							<li class="scroll-to-section"><a href="#newsletter">Newsletter</a></li>
 							<li>
-								<div class="gradient-button"><a id="modal_trigger" href="#modal"><i class="fa fa-sign-in-alt"></i> Sign In Now</a></div>
+								<div class="gradient-button"><a id="modal_trigger" href="#modal"><i class="fa fa-sign-in-alt"></i> Masuk</a></div>
 							</li>
 						</ul>
 						<a class='menu-trigger'>
