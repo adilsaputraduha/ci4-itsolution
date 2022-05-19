@@ -57,9 +57,9 @@
 							<li class="scroll-to-section"><a href="#about">Tentang</a></li>
 							<li class="scroll-to-section"><a href="#pricing">Harga</a></li>
 							<li class="scroll-to-section"><a href="#newsletter">Newsletter</a></li>
-							<li>
+							<!-- <li>
 								<div class="gradient-button"><a id="modal_trigger" href="#modal"><i class="fa fa-sign-in-alt"></i> Masuk</a></div>
-							</li>
+							</li> -->
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
@@ -491,11 +491,11 @@
 						<ul>
 							<li>Harga mulai dari Rp. 100.000</li>
 							<li>Bebas konsultasi kapanpun</li>
-							<li>Instalasi LAN, perbaikan & maintenance jaringan</li>
+							<li>Instalasi LAN, perbaikan & maintenance</li>
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
-							<a href="#">Order / Ajukan Pertanyaan</a>
+							<a href="https://wa.me/6282171538531" target="__blank">Order / Ajukan Pertanyaan</a>
 						</div>
 					</div>
 				</div>
@@ -512,7 +512,7 @@
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
-							<a href="#">Order / Ajukan Pertanyaan</a>
+							<a href="https://wa.me/6282171538531" target="__blank">Order / Ajukan Pertanyaan</a>
 						</div>
 					</div>
 				</div>
@@ -529,7 +529,7 @@
 							<li>Support 24 jam</li>
 						</ul>
 						<div class="border-button">
-							<a href="#">Order / Ajukan Pertanyaan</a>
+							<a href="https://wa.me/6282171538531" target="__blank">Order / Ajukan Pertanyaan</a>
 						</div>
 					</div>
 				</div>
